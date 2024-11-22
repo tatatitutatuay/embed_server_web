@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const crypto = require('crypto');
 const { initializeApp } = require("firebase/app");
 const { getDatabase, ref, set } = require("firebase/database");
+require('dotenv').config();
 
 const app = express();
 const firebaseConfig = {

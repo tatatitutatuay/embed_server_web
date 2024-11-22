@@ -7,14 +7,15 @@
       }
     ],
     "env": {
-      "LINE_CHANNEL_SECRET": "your-line-channel-secret",
-      "FIREBASE_API_KEY": "your-firebase-api-key",
-      "FIREBASE_AUTH_DOMAIN": "your-firebase-auth-domain",
-      "FIREBASE_DATABASE_URL": "your-firebase-database-url",
-      "FIREBASE_PROJECT_ID": "your-firebase-project-id",
-      "FIREBASE_STORAGE_BUCKET": "your-firebase-storage-bucket",
-      "FIREBASE_MESSAGING_SENDER_ID": "your-firebase-messaging-sender-id",
-      "FIREBASE_APP_ID": "your-firebase-app-id"
+      "LINE_CHANNEL_SECRET": "773ad4b071151d20c00955bbba1caea7",
+      "FIREBASE_API_KEY": "AIzaSyAld8mAMkx-3bGBbOAS0-eqTn4QX7PyGn0",
+      "FIREBASE_AUTH_DOMAIN": "es-project-f6e5f.firebaseapp.com",
+      "FIREBASE_DATABASE_URL": "https://es-project-f6e5f-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "FIREBASE_PROJECT_ID": "es-project-f6e5f",
+      "FIREBASE_STORAGE_BUCKET": "es-project-f6e5f.firebasestorage.app",
+      "FIREBASE_MESSAGING_SENDER_ID": "73640823998",
+      "FIREBASE_APP_ID": "1:73640823998:web:d6e340e9f63bbae287e2ef"
     }
   }
+
   
